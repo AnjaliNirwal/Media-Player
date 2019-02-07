@@ -1,0 +1,76 @@
+
+.button{
+    -fx-background-color: red;
+    -fx-color: white;
+    -fx-font-weight: bolder;
+    -fx-border-color: black;
+    
+}
+#openbutton{
+    -fx-background-image: url("../images/fileopen.jpg");
+    -fx-background-size: 30 30;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+      
+}
+
+#playbutton{
+    -fx-background-image: url("../images/download.png");
+    -fx-background-size: 40 50;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+      
+}
+#pausebutton{
+    -fx-background-image: url("../images/pause.jpg");
+    -fx-background-size: 40 50;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+      
+}
+#stopbutton{
+    -fx-background-image: url("../images/stop.png");
+    -fx-background-size: 20 20;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+      
+}
+#slowerbutton{
+    -fx-background-image: url("C:\Users\User-hp\Pictures\rewind.png");
+    -fx-background-size: 20 20;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+   
+      
+}
+#slowbutton{
+    -fx-background-image: url("C:\Users\User-hp\Pictures\reverse.jpg");
+    -fx-background-size: 20 20;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+      
+}
+#fasterbutton{
+    -fx-background-image: url("C:\Users\User-hp\Pictures\Fast_forward2.png");
+    -fx-background-size: 20 20;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+      
+}
+#fastbutton{
+    -fx-background-image: url("C:\Users\User-hp\Pictures\fast-forward.jpg");
+    -fx-background-size: 20 20;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+      
+}
+#hbox{
+ -fx-background-color: black;   
+}
+#seekSlider{
+    -fx-background-color: yellow;
+}
+#border{
+    -fx-border-width: 10px;
+    -fx-border-color: black;
+ }
